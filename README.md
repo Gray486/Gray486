@@ -1,3 +1,3 @@
-- I am Gray Jackson-Noell!
+- I am Gray!
 - I am currently learning JavaScript along with HTML and CSS.
 - I am planning on learning Python and maybe some C# for unity...
