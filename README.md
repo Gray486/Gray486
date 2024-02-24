@@ -1,3 +1,1 @@
-- I am Gray!
-- I am currently learning JavaScript along with HTML and CSS.
-- I am planning on learning Python and maybe some C# for unity...
+I am a high schooler who makes little games and tools for fun. I mainly use clinetside Javascript and Node.JS. :)
