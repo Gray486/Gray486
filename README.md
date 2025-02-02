@@ -1,1 +1,1 @@
-I am a high schooler who makes little games and tools for fun. I am also programming lead on robotics [FRC team 1648](https://github.com/midtownrobotics "G3 Robotics GitHub"). Check out my website [GrayJN.com](https://grayjn.com)!   :)
+I am a high schooler in Atlanta, GA who enjoys computer science, electronics, and engeneering. Check out my website [GrayJN.com](https://grayjn.com) to take a look at all my projects!
